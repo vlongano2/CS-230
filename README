@@ -1,0 +1,13 @@
+1. The client was a company called The Gaming Room. They wanted me to design a web-based game application.
+
+2. For the documentation I beleive I consisely described problems at hand and viable solutions to them.
+
+3. The UML diagram particularly came in hady when it came down to being able to design different parts of the program but then peicing them together to make working software.
+
+4. One part of the document I might revisit would be the recommendation section. After I have more real world experience with operating platforms I could go into a bit more detail and comparisons with what I reccomended.
+
+5. The users needs serve as the basis for the functionality that is to be acheived with the programming. User needs are translated into fundamental tasks that the program needs to do.
+  It is important to address the user needs in order for your program to be useable or desireable since that is the whole point of making the program, to be used.
+  
+6. The design approach was peice meal and started with laying out the model with a UML diagram. I then enhanced the classes to work with eachother using inheritance and the iterator pattern.
+  In the future, I might consider using different languages for different parts of the program that is suited better for it. 
